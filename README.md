@@ -1,6 +1,5 @@
-## AFFORDMED Technology Task
 
-# Completed 2 question of Frontend Task
+# Completed second question of Frontend Task
 
 # PREVIEW SCREENS
 
