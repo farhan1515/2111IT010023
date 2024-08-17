@@ -5,7 +5,9 @@
 # PREVIEW SCREENS
 
 # HOME PAGE
-![pic1](https://github.com/user-attachments/assets/259e9a30-acc3-4923-ad5d-2354965f6117)
+
+![pic1](https://github.com/user-attachments/assets/2fe86047-57b2-4515-974b-ef4aa01f2247)
+
 
 # DETAIL PAGE
 ![pic3](https://github.com/user-attachments/assets/472c971d-6c89-4dbd-abe1-f27f2b22cdf8)
