@@ -1,5 +1,7 @@
 ## AFFORDMED Technology Task
 
+# Completed 2 question of Frontend Task
+
 # PREVIEW SCREENS
 
 # HOME PAGE
